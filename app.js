@@ -21,6 +21,7 @@ console.log(globalmessage);
 //load a module
 
 console.log(module);
+console.log(module);
 //load a module
 var log = require('./logger').default;
 
